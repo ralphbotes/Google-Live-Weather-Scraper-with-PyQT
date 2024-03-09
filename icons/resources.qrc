@@ -1,0 +1,17 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="/icons/icons">
+        <file alias="cloudy.png">cloudy.png</file>
+        <file alias="fog.png">fog.png</file>
+        <file alias="mist.png">mist.png</file>
+        <file alias="partly_cloudy.png">partly_cloudy.png</file>
+        <file alias="rain_light.png">rain_light.png</file>
+        <file alias="rain_s_cloudy.png">rain_s_cloudy.png</file>
+        <file alias="rain.png">rain.png</file>
+        <file alias="snow.png">snow.png</file>
+        <file alias="sunny_s_cloudy.png">sunny_s_cloudy.png</file>
+        <file alias="sunny.png">sunny.png</file>
+        <file alias="thunderstorms.png">thunderstorms.png</file>
+        <file alias="snow_light.png">snow_light.png</file>
+    </qresource>
+</RCC>
